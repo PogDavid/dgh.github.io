@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>David's Gaming Highlights 2</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">  
+<link rel="stylesheet" href="Style/david.css">
+<body>
+  
+  	<video autoplay muted loop id="Welcome to David'S.mp4">
+  		<source src="Media/Videos/Welcome to David'S.mp4" type="video/mp4">
+	</video> 
+<div class="w3-container">
+	<div class="w3-text-blue">
+		<h2>David's Gaming Highlights.</h2>
+	</div> 
+</div>	
+<div class="w3-pink">
+  <h3>osu! videos</h3>
+  <li><a href="osu!.html">Decent noob plays </a></li>
+</div>
+<div class="w3-black">
+  <h3>Rainbow Six Siege videos</h3>
+  <li><a href="R6.html">Epic moments</a></li>
+  <li><a href="R6.html">Wiffs and waffeling</a></li>
+</div>
+<div class="w3-blue-gray">
+  <h3>League of Legends</h3>
+  <li><a href="League of Legends.html">More decent noob plays </a></li>
+</div>
+<footer class="w3-container w3-dark-grey">
+  <h5>Further Information</h5>
+  <p><a href="Contact.html">Contact</a></p>
+  <p><a href="FAQ.html">FAQ</a></p>
+	
+</footer>
+
+</body>
+</html>
